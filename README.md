@@ -1,9 +1,7 @@
 # Primeiros codigos
  Esse foi um mini projeto que desenvolvi em uma aula da Bedimcode. Exemplo legal e dinâmico de site tipo portfólio em que pude usar algumas técnicas bem interessantes!
 
-> Construindo meu caminho na área de Frontend
-
-Uma página só, mas usando muita técnica!
+> Uma página só, mas usando muita técnica!
 
 ![preview](./.github/site_preview.png)
 
