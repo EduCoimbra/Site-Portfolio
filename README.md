@@ -5,7 +5,7 @@
 
 Uma página só, mas usando muita técnica!
 
-![preview](./.github/preview.png)
+![preview](./.github/site_preview.png)
 
 [Ver este site no navegador](https://educoimbra.github.io/Site-Portfolio/)
 
